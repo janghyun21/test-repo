@@ -8,6 +8,4 @@ public class ClassCourseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ClassCourseApplication.class, args);
-
-		Sytem.out.println("Changed.");
 	}
